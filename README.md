@@ -159,22 +159,16 @@ ALL-PROJECTS/
 └── project5/
 
 
-Connect With Me
+## 🔗 Connect With Me
 
-Surya Bhavani
+<p align="center">
 
-🎓 B.Tech Student
-🐍 Python & Data Analysis Learner
-📊 Interested in Data Analysis and Visualization
-github profile :
-https://github.com/suryabhavanisanagasetty.com
-all projects links :
-https://github.com/suryabhavanisanagasetty/ALL-PROJECTS.com
+<a href="https://github.com/suryabhavanisanagasetty">
+  <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub Profile"/>
+</a>
 
-## ⭐ Thank You
+<a href="https://github.com/suryabhavanisanagasetty/ALL-PROJECTS">
+  <img src="https://img.shields.io/badge/All%20Projects-Repository-blue?style=for-the-badge&logo=github" alt="All Projects"/>
+</a>
 
-Thank you for visiting my Data Analysis Projects Repository! 😊
-
-I hope you find these projects useful and informative.
-
-⭐ Feel free to explore the repository and all five projects!
+</p>
