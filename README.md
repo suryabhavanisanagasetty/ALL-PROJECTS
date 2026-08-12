@@ -157,19 +157,20 @@ ALL-PROJECTS/
 ├── project3/
 ├── project4/
 └── project5/
-## 🔗 Connect With Me
-About Me
+
+
+Connect With Me
 
 Surya Bhavani
 
 🎓 B.Tech Student
 🐍 Python & Data Analysis Learner
 📊 Interested in Data Analysis and Visualization
-### 💻 GitHub Profile
-[![GitHub](https://img.shields.io/badge/GitHub-Surya%20Bhavani-black?style=for-the-badge&logo=github)](https://github.com/suryabhavanisanagasetty)
+github profile :
+https://github.com/suryabhavanisanagasetty.com
+all projects links :
+https://github.com/suryabhavanisanagasetty/ALL-PROJECTS.com
 
-### 📊 All Data Analysis Projects
-[![Projects](https://img.shields.io/badge/View%20All%20Projects-ALL--PROJECTS-blue?style=for-the-badge&logo=github)](https://github.com/suryabhavanisanagasetty/ALL-PROJECTS)
 ## ⭐ Thank You
 
 Thank you for visiting my Data Analysis Projects Repository! 😊
