@@ -163,14 +163,14 @@ ALL-PROJECTS/
 ---
 ## 🔗 Connect With Me
 
-<p align="center">
+### 👩‍💻 Surya Bhavani
 
-<a href="https://github.com/suryabhavanisanagasetty">
-  <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub Profile"/>
-</a>
+🎓 B.Tech Student  
+🐍 Python & Data Analysis Learner  
+📊 Interested in Data Analysis, Visualization & Business Insights
 
-<a href="https://github.com/suryabhavanisanagasetty/ALL-PROJECTS">
-  <img src="https://img.shields.io/badge/All%20Projects-Repository-blue?style=for-the-badge&logo=github" alt="All Projects"/>
-</a>
+**💻 GitHub Profile**  
+https://github.com/suryabhavanisanagasetty
 
-</p>
+**📂 All Projects Repository**  
+https://github.com/suryabhavanisanagasetty/ALL-PROJECTS
